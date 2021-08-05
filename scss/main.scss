@@ -26,7 +26,8 @@ body {
 }
 
 .card {
-	max-width: 90%;
+	width: 90%;
+	max-width: 600px;
 	border-radius: 1rem;
 	background-color: $card-background-color;
 	position: relative;
@@ -130,7 +131,7 @@ body {
 	}
 	.card {
 		display: flex;
-		max-width: 75%;
+		max-width: 1000px;
 
 		.card__image {
 			display: block;
