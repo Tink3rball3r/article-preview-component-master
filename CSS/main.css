@@ -100,7 +100,7 @@ body {
 .card__button {
   border-radius: 50%;
   border: none;
-  padding: 0.4rem;
+  padding: 1rem;
   -ms-grid-column-align: end;
       justify-self: end;
   -ms-flex-item-align: center;
